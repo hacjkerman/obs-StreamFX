@@ -25,6 +25,7 @@ Thanks go to the following people, who have either wrangled with code or wrangle
 ### Translators
 [StreamFX relies on crowd-sourced translations to be available in your language.](https://github.com/Xaymar/obs-StreamFX/issues/36) Much thanks go out to all volunteer translators who have taken some time to submit translations on Crowdin.
 
+
 * [A Ismaili](https://crowdin.com/profile/achimismaili)
 * [Adolfo Jayme](https://crowdin.com/profile/fitoschido)
 * [Ahmed](https://crowdin.com/profile/FiberAhmed)
